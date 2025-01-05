@@ -1,0 +1,17 @@
+{
+    "description": "Using domain for testing",
+
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "halotravel",
+
+    "owner": {
+        "repo": "https://github.com/lechcher",
+        "email": "lechcher@mail.com"
+    },
+
+    "record": {
+        "A": ["68.233.103.79"]
+    },
+
+    "proxied": false
+}
